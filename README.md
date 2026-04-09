@@ -4,3 +4,6 @@ Curso: Herramientas de Desarrollo
 Tema: Git  
   
 Aprendiendo sobre ramas
+=======
+  
+Contenido en rama principal
